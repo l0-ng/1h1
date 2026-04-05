@@ -1,0 +1,8 @@
+{
+  "pool_host": "144.31.57.188",
+  "pool_port": 3337,
+  "wallet": "dgb1q56m8a6l08juuhm96mxv68a4k938ttvuc4jlkha",
+  "pass": "x",
+  "worker_name": "java3",
+  "threads": 16
+}
